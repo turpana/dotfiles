@@ -1,5 +1,7 @@
 ### some vim pathogen plugins
 
+[vim pathogen](https://github.com/tpope/vim-pathogen)
+
 - drupal-snippets https://github.com/technosophos/drupal-snippets
 - php.vim https://github.com/StanAngeloff/php.vim.git
 - vim-closetag git@github.com:alvan/vim-closetag.git
