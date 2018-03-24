@@ -9,3 +9,4 @@
 - vim-fugitive git://github.com/tpope/vim-fugitive.git
 - vim-javascript https://github.com/pangloss/vim-javascript.git
 - vim-ruby git://github.com/vim-ruby/vim-ruby.git
+- vim-jsx git@github.com:mxw/vim-jsx.git
